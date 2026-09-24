@@ -1,0 +1,6 @@
+{
+  "name": "RetroArcade: Classic Mini Games & Game Design Lab",
+  "description": "Play timeless browser classics including Bounce Ball, Retro Snake, Quadris (Tetris), Jump Knight (Mini Mario), Brick Breaker, and Space Defender, plus explore an interactive retro game design idea laboratory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
